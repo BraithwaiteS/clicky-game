@@ -1,0 +1,17 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.crystals{
+    padding: 20px;
+}
+
+a:link{
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color:black;
+}
